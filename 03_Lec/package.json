@@ -1,0 +1,16 @@
+{
+  "name": "03_lec",
+  "version": "1.0.0",
+  "description": "for lecture 03",
+  "license": "ISC",
+  "author": "rupam ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
