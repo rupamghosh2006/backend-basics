@@ -1,0 +1,20 @@
+{
+  "name": "rupam_backend",
+  "version": "1.0.0",
+  "description": "a simple app to deploy",
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "rupam ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
